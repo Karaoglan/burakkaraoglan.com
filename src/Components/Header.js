@@ -9,6 +9,7 @@ class Header extends Component {
       var description= this.props.data.description;
       var jobDescription= this.props.data.jobDescription;
       var employer= this.props.data.employer;
+      var employerLink = this.props.data.employerLink;
       var city= this.props.data.address.city;
       var networks= this.props.data.social.map(function(network){
         return <li key={network.name}><a href={network.url}><i className={network.className}></i></a></li>
@@ -37,7 +38,7 @@ class Header extends Component {
          <div className="banner-text">
             <h1 className="responsive-headline">{name}</h1>
             <h3><span>{city}</span> based <span>{occupation}</span>, 
-            currently employed by <span>{employer}</span> where I work as a 
+            currently employed by <a href={employerLink}><span>{employer}</span></a> where I work as a 
             <span> {jobDescription}</span>. {description} </h3>
             <hr />
             <ul className="social">

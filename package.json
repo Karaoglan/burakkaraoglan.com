@@ -2,7 +2,7 @@
   "name": "karaoglan-personal-web",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://karaoglan.github.io/karaoglan.github.io",
+  "homepage" : "https://karaoglan.github.io",
   "dependencies": {
     "jquery": "^3.2.1",
     "react": "^16.2.0",
@@ -12,7 +12,7 @@
   },
   "scripts": {
     "predeploy": "yarn run build",
-    "deploy": "gh-pages -b master -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
