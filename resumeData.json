@@ -1,13 +1,13 @@
 {
   "main": {
     "name": "Burak Karaoglan",
-    "occupation": "Software Development Engineer",
+    "occupation": "Tech Lead",
     "description": "Experienced Java developer in various fields like transportation, aviation, finance industries, clean coder and obstacle remover. Always keen to learn new technologies, and looking to take more leadership over project delivery. Keeping up new technologies. Following SOLID principles not just in theory.",
     "image": "profilepic.png",
-    "jobDescription": "Software Engineer",
-    "employer": "Canbolat Holding Germany - Arebos.de",
-    "employerLink": "https://www.arebos.de",
-    "bio": "Over 7 years experience on Java technologies. In addition have a passion to master Golang.",
+    "jobDescription": "Senior Software Engineer - Tech Lead",
+    "employer": "grubtech dubai",
+    "employerLink": "https://www.grubtech.com",
+    "bio": "Over 9 years experience on Java technologies. In addition have a passion to master Golang.",
     "contactmessage": "What about a coffe?",
     "email": "burakkaraoglan@icloud.com",
     "address": {
@@ -59,9 +59,15 @@
     ],
     "work": [
       {
-        "company": "Siontek - Canbolat Holding",
+        "company": "Grubtech - Dubai",
+        "title": "Tech Lead - Senior Software Engineer",
+        "years": "Jun 2022 - Present",
+        "description": "F&B - Digitizing Restaurant Economy https://www.grubtech.com/\nResponsibilities:\n- Management of AWS cloud alarms, monitorig  etc.\n- quality of work by building CI/CD"
+      },
+      {
+        "company": "Canbolat Holding - Siontek, Germany",
         "title": "Senior Software Engineer",
-        "years": "Jan 2021 - Present",
+        "years": "Jan 2021 - Jun 2022",
         "description": "E-Commerce platform https://arebos.de\nResponsibilities:\n- delivering product in warehouse management.\n- quality of work by building CI/CD"
       },
       {
