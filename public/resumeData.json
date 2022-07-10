@@ -16,7 +16,6 @@
       "zip": "34400"
     },
     "website": "http://www.burakkaraoglan.com",
-    "resumedownload": "resume.pdf",
     "social": [
       {
         "name": "linkedin",
@@ -150,7 +149,7 @@
       {
         "title": "Warehouse Management System",
         "category": "Arebos.de - whms",
-        "image": "siontek.jpeg",
+        "image": "arebos.png",
         "url": "https://arebos.de"
       },
       {
