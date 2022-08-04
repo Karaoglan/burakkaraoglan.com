@@ -38,7 +38,7 @@ class About extends Component {
                </div>
                <div className="columns download">
                   <p>
-                     <a href={require("../resume.pdf")} className="button" target="_blank"><i className="fa fa-download"></i>Download Resume</a>
+                     <a href={require("../resume1.pdf")} className="button" target="_blank"><i className="fa fa-download"></i>Download Resume</a>
                   </p>
                </div>
             </div>
